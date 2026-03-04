@@ -23,10 +23,3 @@ Ingeniero especializado en sistemas embebidos, arquitectura de hardware y aceler
 ## 📬 Contacto
 
 * **LinkedIn:** [Adonai Hernández Bolaños](https://linkedin.com/in/adonai-hernández-bolaños-a315a2100)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdonaiHernandez&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonaiHernandez&theme=dark&hide_border=true&layout=compact)
