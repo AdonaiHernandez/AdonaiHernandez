@@ -1,18 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on GBA game in C<br>🌱 I’m currently learning Rust
+Adonai Hernández Bolaños
+Ingeniero enfocado en sistemas embebidos, arquitectura de hardware y aceleración computacional. Interesado en la optimización de algoritmos a nivel de silicio y programación de bajo nivel.
 
+🛠 Áreas de Especialización
+Aceleración de Hardware: Diseño y optimización de kernels para FPGAs utilizando OpenCL (Intel FPGA).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adonai-hernández-bolaños-a315a2100) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adonai_Hernande) 
+Sistemas Embebidos: Desarrollo bare-metal, diseño de sistemas basados en RTL y arquitectura de procesadores (Vitis, Vivado, Verilog).
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdonaiHernandez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdonaiHernandez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonaiHernandez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Lenguajes de Programación: C (enfocado en rendimiento y sistemas), Rust (seguridad y concurrencia), Assembly.
 
----
-[![](https://visitcount.itsvg.in/api?id=AdonaiHernandez&icon=0&color=0)](https://visitcount.itsvg.in)
+Procesamiento: Implementación de motores de cómputo (Convolution Engines) para procesamiento de señales y visión artificial.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 Proyectos Destacados
+Convolution Engine (Intel FPGA): Implementación de un motor de convolución de alto rendimiento sobre FPGAs de Intel utilizando OpenCL para maximizar el throughput.
+
+GBA Development: Exploración de las capacidades gráficas y de hardware de la Game Boy Advance mediante programación en C puro (Bare-metal).
+
+Tools for Embedded: Desarrollo de utilidades para la conversión y optimización de assets para hardware limitado (ej. conversores de imágenes a formatos hexadecimales para GBA).
+
+💻 Tech Stack
+Lenguajes: C, Rust, Verilog, Assembly, JavaScript, C#.
+
+Herramientas de Hardware: Intel FPGA SDK for OpenCL, Xilinx Vitis, Vivado.
+
+Conceptos: Bare-metal, optimización de algoritmos, arquitectura de computadores, procesamiento de señales, sistemas de tiempo real.
+
+📬 Contacto
+LinkedIn
