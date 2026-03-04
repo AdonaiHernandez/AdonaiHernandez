@@ -5,7 +5,7 @@ Ingeniero especializado en sistemas embebidos, arquitectura de hardware y aceler
 
 * **Aceleración de Hardware:** Diseño y optimización de kernels para FPGAs utilizando OpenCL (Intel FPGA SDK).
 * **Sistemas Embebidos:** Desarrollo bare-metal, diseño de sistemas basados en RTL y flujo de trabajo para FPGAs (Vivado, Xilinx Vitis).
-* **Lenguajes de Programación:** C (sistemas y rendimiento), Rust (seguridad y concurrencia), Verilog (diseño de hardware), Assembly.
+* **Lenguajes de Programación:** C (sistemas y rendimiento), Verilog (diseño de hardware), Assembly.
 * **Procesamiento de Señales:** Implementación de motores de cómputo y aceleración para tareas de visión artificial.
 
 ## 🚀 Proyectos Destacados
@@ -23,7 +23,6 @@ Ingeniero especializado en sistemas embebidos, arquitectura de hardware y aceler
 ## 📬 Contacto
 
 * **LinkedIn:** [Adonai Hernández Bolaños](https://linkedin.com/in/adonai-hernández-bolaños-a315a2100)
-* **X (Twitter):** [@Adonai_Hernande](https://x.com/Adonai_Hernande)
 
 ---
 
